@@ -7,14 +7,14 @@ O objetivo da aplicação é receber um número de no mínimo 4 dígitos e checa
 
 # :bookmark_tabs: Índice
  * [Avaliação Sprint 1 - Sistema de verificação de PIN](#Avaliação-Sprint-1---Sistema-de-verificação-de-PIN)
- * [:bookmark_tabs: Índice](#-:bookmark_tabs:-Índice)
- * [:wrench: Funcionalidades](#-:wrench:-Funcionalidades)
- * [:mag_right: Detalhes do desenvolvimento](#-:mag_right:-Detalhes-do-desenvolvimento)
- * [:anger: Dificulades](#-:anger:-Dificulades)
- * [:file_folder: Acesso ao projeto](#-:file_folder:-Acesso-ao-projeto)
- * [:hammer: Abrir e rodar o projeto](#-:hammer:-Abrir-e-rodar-o-projeto)
- * [:heavy_check_mark: Técnicas e tecnologias utilizadas](#-:heavy_check_mark:-Técnicas-e-tecnologias-utilizadas)
- * [:pencil2: Autores](#-:pencil2:-Autores)
+ * [:bookmark_tabs: Índice](##:bookmark_tabs:-Índice)
+ * [:wrench: Funcionalidades](##:wrench:-Funcionalidades)
+ * [:mag_right: Detalhes do desenvolvimento](##:mag_right:-Detalhes-do-desenvolvimento)
+ * [:anger: Dificulades](##:anger:-Dificulades)
+ * [:file_folder: Acesso ao projeto](##:file_folder:-Acesso-ao-projeto)
+ * [:hammer: Abrir e rodar o projeto](##:hammer:-Abrir-e-rodar-o-projeto)
+ * [:heavy_check_mark: Técnicas e tecnologias utilizadas](##:heavy_check_mark:-Técnicas-e-tecnologias-utilizadas)
+ * [:pencil2: Autores](##:pencil2:-Autores)
 
 ***
 
@@ -30,7 +30,7 @@ O objetivo da aplicação é receber um número de no mínimo 4 dígitos e checa
 
 Exemplo de funcionamento
 
-<img src="https://i.imgur.com/GpVHWZk.png" alt="Exemplo de funcionamento básico, o número 56789 é inserido e a mensagem "MENOR QUE A RESPOSTA, INSIRA UM NUMERO MAIOR" é retornada na tela">
+<img src="https://i.imgur.com/GpVHWZk.png" alt="Exemplo de funcionamento básico, o número 56789 é inserido e a mensagem MENOR QUE A RESPOSTA, INSIRA UM NUMERO MAIOR é retornada na tela">
 
 # :mag_right: Detalhes do desenvolvimento
 
