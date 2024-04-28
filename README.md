@@ -20,13 +20,13 @@ O objetivo da aplicação é receber um número de no mínimo 4 dígitos e checa
 
 ## :wrench: Funcionalidades
 
-- `Funcionalidade 1`: Recebe um número entre 1000 e 100,000 na caixa de input central.
-- `Funcionalidade 2`: Ao apertar o botão "CHECAR RESPOSTA" a aplicação retorna na tela se o número foi:
- * Maior que a reposta, orientando que o próximo número seja menor.
- * Muito maior que a resposta, orientando que o próximo número seja muito menor.
- * Menor que a resposta, orientando que o próximo número seja maior.
- * Muito menor que a resposta, orientando que o próximo número seja muito maior.
- * Igual a resposta, parabenizando o usuário.
+* `Funcionalidade 1`: Recebe um número entre 1000 e 100,000 na caixa de input central.
+* `Funcionalidade 2`: Ao apertar o botão "CHECAR RESPOSTA" a aplicação retorna na tela se o número foi:
+  - Maior que a reposta, orientando que o próximo número seja menor.
+  - Muito maior que a resposta, orientando que o próximo número seja muito menor.
+  - Menor que a resposta, orientando que o próximo número seja maior.
+  - Muito menor que a resposta, orientando que o próximo número seja muito maior.
+  - Igual a resposta, parabenizando o usuário.
 
 Exemplo de funcionamento
 
